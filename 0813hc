@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>黄程的新网站</title>
+    <style>
+      body {
+        margin: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div style="background-color: #615b5b; text-align: center; padding: 40px">
+      <img
+      src="https://kangwenchang.com/logo.png"alt="黄程"width="80px"height="80px"
+    </div>
+    <div
+      style="
+        max-width: 700px;
+        margin: 30px auto;
+        padding: 15px;
+        ling-height: 1.7;
+        color: rgb(121, 216, 126);
+      "
+    >
+      <p>这是一个网站</p>
+      <p>由黄程主持编写</p>
+      <p>在2022年8月13日完成</p>
+      <p>编写不易</p>
+      <p>请谅解</p>
+    </div>
+    <div
+      style="
+        background-color: #415eff;
+        text-align: center;
+        padding: 40px font-size.12px;
+      "
+    >
+      <p>我的网站</p>
+      <a herf="https://20070925huangcheng.github.io/first-website">友情链接</a>
+    </div>
+  </body>
+</html>
